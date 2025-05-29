@@ -11,18 +11,23 @@ export const AboutMe = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
+            <h3 className="text-2xl font-semibold">
+              Passionate Software Engineer
+            </h3>
 
             <p className="text-muted-foreground">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
-              corrupti iste facere quibusdam! Velit fugit nam dolore, totam
-              nulla dolores alias enim nihil minus deleniti ea. Vero quia sit a!
+              Alongside my passion for programming, I’ve completed multiple
+              internships and research projects that have helped me develop
+              essential skills in full-stack development and AI/ML.
             </p>
 
             <p className="text-muted-foreground">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
-              corrupti iste facere quibusdam! Velit fugit nam dolore, totam
-              nulla dolores alias enim nihil minus deleniti ea. Vero quia sit a!
+              I’m driven by a relentless curiosity and a commitment to
+              continuous growth. I actively seek out new challenges and learning
+              opportunities—whether that’s diving into emerging technologies,
+              collaborating on team projects, or contributing to open-source
+              communities. Building genuine connections and fostering inclusive,
+              supportive environments are at the heart of how I work.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -48,12 +53,14 @@ export const AboutMe = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg">
+                    {" "}
+                    Full-Stack Development
+                  </h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Vero corrupti iste facere quibusdam! Velit fugit nam dolore,
-                    totam nulla dolores alias enim nihil minus deleniti ea. Vero
-                    quia sit a!
+                    Building scalable end-to-end applications by integrating
+                    seamless front-end interfaces with robust back-end services
+                    and databases.
                   </p>
                 </div>
               </div>
@@ -64,12 +71,11 @@ export const AboutMe = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Machine Learning</h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Vero corrupti iste facere quibusdam! Velit fugit nam dolore,
-                    totam nulla dolores alias enim nihil minus deleniti ea. Vero
-                    quia sit a!
+                    Designing, training, and deploying machine learning models
+                    and data pipelines to extract actionable insights from
+                    complex datasets.
                   </p>
                 </div>
               </div>
@@ -81,12 +87,11 @@ export const AboutMe = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project </h4>
+                  <h4 className="font-semibold text-lg">DevOps </h4>
                   <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Vero corrupti iste facere quibusdam! Velit fugit nam dolore,
-                    totam nulla dolores alias enim nihil minus deleniti ea. Vero
-                    quia sit a!
+                    Streamlining development workflows through infrastructure as
+                    code, containerization, and continuous
+                    integration/continuous delivery for reliable deployments.
                   </p>
                 </div>
               </div>
