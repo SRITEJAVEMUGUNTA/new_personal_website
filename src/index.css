@@ -110,7 +110,8 @@
 
 @utility text-glow {
   @apply relative;
-  text-shadow: 0 0 10px rgba(167, 139, 250, 0.5);
+  text-shadow: 0 0 5px rgba(167, 139, 250, 0.9),
+    0 0 15px rgba(167, 139, 250, 0.6), 0 0 30px rgba(167, 139, 250, 0.4);
 }
 
 @utility card-hover {
