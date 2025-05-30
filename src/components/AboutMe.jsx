@@ -37,7 +37,7 @@ export const AboutMe = () => {
               </a>
 
               <a
-                href="../../public/Sriteja_Vemugunta_Resume.pdf"
+                href="https://sritejavemugunta.netlify.app/sriteja_vemugunta_resume.pdf"
                 download="Sriteja_Vemugunta_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
