@@ -1,4 +1,4 @@
-import { Briefcase, Code, User, ArrowDown } from "lucide-react";
+import { Brain, Code, Cloud, ArrowDown } from "lucide-react";
 
 export const AboutMe = () => {
   return (
@@ -68,7 +68,7 @@ export const AboutMe = () => {
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
+                  <Brain className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Machine Learning</h4>
@@ -83,7 +83,7 @@ export const AboutMe = () => {
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
                 <div className="p-3 rounded-full bg-primary/10">
-                  <Briefcase className="h-6 w-6 text-primary" />
+                  <Cloud className="h-6 w-6 text-primary" />
                 </div>
 
                 <div className="text-left">
