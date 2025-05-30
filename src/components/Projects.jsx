@@ -4,7 +4,7 @@ import certificateImage from "../assets/certificate.png";
 import skin from "../assets/skin.png";
 import ML from "../assets/ML.png";
 import mobileGame from "../assets/mobileGame.png";
-import video from "../assets/Hear_2_See_Demo.MP4";
+import video from "../assets/Hear_2_See_Demo.mp4";
 const projects = [
   {
     id: 1,
